@@ -13,6 +13,7 @@ As stated above bla bla provide some git trainning
 some more info for deplyoment
 
 ## How to contribute
+add instructions
 
 ### Copyright
 
