@@ -14,3 +14,6 @@ some more info for deplyoment
 
 ## How to contribute
 
+### Copyright
+
+git trainning 
